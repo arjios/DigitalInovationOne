@@ -1,4 +1,4 @@
-**negrito** Livro de Receitas 
+ Livro de Receitas 
 
 Strogonoff
 
